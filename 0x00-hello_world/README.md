@@ -1,1 +1,1 @@
-This project teach us how to create a simple hello world C program!
+Its all about the start-up gear of C lang
